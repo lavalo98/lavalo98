@@ -52,7 +52,7 @@ Features:
 * Once you click on a movie, you can see all the info about it in one spot and choose whether or not to watch.
 * You can review and comment on movies for Marketing Managers to see in their own dashboard of custom stats.
 
-<img src="https://imgur.com/a/jnGEtXj" title="Movie Site Gif" alt="Movie Site Gif"/>
+![](CS372ProjectMainPage.gif)
 
 <!--
 **lavalo98/lavalo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
