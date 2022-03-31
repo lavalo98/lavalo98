@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">, I am Luis Avalo
 
 <!--
 **lavalo98/lavalo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
