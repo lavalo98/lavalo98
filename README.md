@@ -27,11 +27,32 @@ Technologies I know but am not currently using:
 
 ---
 
-Projects I am working on:
+# Projects I am working on:
 
-`Section to be completed`
+## Endless Dungeon Crawler Typing Game
+* Infinite enemy generation
+* Enemy variety (Multiple words/Multiple hits)
+* Word Difficulty increases with time
+* Power Ups
+* Has a global leaderboard.
+* Over 300,000 words to choose from!
 
+<img src="https://camo.githubusercontent.com/c6c3b762a2bf5d37870e977e85df2560fbd27962ce3f7928739d734a968e9551/68747470733a2f2f696d6775722e636f6d2f724d43777266422e676966" title="Typing Game Gif" alt="Typing Game Gif" width="500px" height="300px"/>
 
+## Mock Movie Streaming Site
+Tech Stack: 
+* Frontend in PUG, and CSS.
+* Backend in Node.js & Express
+* Databse with MongoDB
+
+Features:
+* Manages 3 different user roles. (Viewers, Content Editors, and Marketing Managers)
+* Custom Login Module allow for users to register and login to the movie site.
+* Once in the site, you can search for a movie on the site or choose one from the homepage.
+* Once you click on a movie, you can see all the info about it in one spot and choose whether or not to watch.
+* You can review and comment on movies for Marketing Managers to see in their own dashboard of custom stats.
+
+<img src="https://imgur.com/a/jnGEtXj" title="Movie Site Gif" alt="Movie Site Gif"/>
 
 <!--
 **lavalo98/lavalo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
