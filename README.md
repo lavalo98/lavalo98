@@ -25,6 +25,12 @@ Technologies I know but am not currently using:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ Icon" width="50px" height="50px"/>
 
+---
+
+Projects I am working on:
+
+`Section to be completed`
+
 
 
 <!--
