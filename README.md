@@ -1,4 +1,4 @@
-### Hey there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px">, I'm Luis Avalo
+### Hey there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="25px">, I'm Luis Avalo
 
 ---
 
