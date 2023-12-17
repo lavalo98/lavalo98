@@ -40,6 +40,8 @@ Technologies I know but am not currently using:
 
 <img src="https://camo.githubusercontent.com/c6c3b762a2bf5d37870e977e85df2560fbd27962ce3f7928739d734a968e9551/68747470733a2f2f696d6775722e636f6d2f724d43777266422e676966" title="Typing Game Gif" alt="Typing Game Gif" width="500px" height="300px"/>
 
+# School Projects:
+
 ## Mock Movie Streaming Site
 Tech Stack: 
 * Frontend in PUG, and CSS.
