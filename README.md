@@ -2,7 +2,7 @@
 
 ---
 
-I am a college graduate with Bachelor's Degree in Computer Science from the University of Alaska Fairbanks!
+I am a college graduate with a Bachelor's Degree in Computer Science from the University of Alaska Fairbanks!
 
 I am currently full time developer. I love exploring web, game, and app development. 
 
